@@ -11,6 +11,11 @@ body {
   width: 550px;
   height: 550px;
   margin: auto;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   /* padding: 115px 52px; */
 }
 .content-container {
